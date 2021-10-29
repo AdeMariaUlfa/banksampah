@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "932326491365",
+    "project_id": "owaste-61952",
+    "storage_bucket": "owaste-61952.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932326491365:android:e3fbfddb32717fd717000c",
+        "android_client_info": {
+          "package_name": "com.example.owaste_proyek2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932326491365-iukg2o574k89oeml330s92lhgnajbik6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.owaste_proyek2",
+            "certificate_hash": "e4c1e060089b77fccab12d61f3c16130a249a0de"
+          }
+        },
+        {
+          "client_id": "932326491365-2ounsr5inoaa47doedfhmanoilu17bi6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzRUq1lU6jqVOP6awteq_0bpbbn6w3EvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932326491365-2ounsr5inoaa47doedfhmanoilu17bi6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
